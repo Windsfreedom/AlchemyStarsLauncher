@@ -1,5 +1,7 @@
 # 白夜极光DMM版反代理——alchemystarsLauncher
-该项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
+本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
+
+帖子地址：https://bbs.nga.cn/read.php?tid=29306166&rand=88
 
 # 请注意，启动器要求服务器必须使用HTTPS，建议您使用Nginx等处理
 
