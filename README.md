@@ -7,6 +7,7 @@
 
 # 启动器反代理自建教程
 使用replit平台搭建，具体操作详见：https://www.bilibili.com/video/BV1Ka411Z7nz/
+![QQ截图20220816210545](https://user-images.githubusercontent.com/103258286/184889127-bc4ee8cb-323f-4159-b00e-3ea82fe78403.png)
 
 # 反代理地址
 主线路：https://alchemystars.xiaoyao-100.repl.co/dmmapi
@@ -28,12 +29,14 @@ ps3：如需台服美服直连补丁，请自行抓包编写
 
 # alchemystarslauncher v4.6
 ![QQ截图20220816210425](https://user-images.githubusercontent.com/103258286/184888863-605c4e42-74e7-48e9-b0d0-40640f792488.png)
+
 此压缩包内程序为本项目附带的启动器，该程序的所有登录均在服务器上完成，账号数据加密存储在本地，安全性高
 
 
 # 网页版启动器
 
 地址：https://weblaunch.kengxxiao.com/
+![QQ截图20220816210611](https://user-images.githubusercontent.com/103258286/184889187-fcfaa828-842e-4e77-a964-2d434329876b.png)
 
 ps1：请下载网页版启动器程序后再使用该启动方式
 
