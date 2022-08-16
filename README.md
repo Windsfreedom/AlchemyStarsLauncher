@@ -1,4 +1,4 @@
-# 白夜极光DMM版反代理——alchemystarsLauncher
+# 白夜极光DMM版反代理——alchemystarslauncher
 本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
 
 帖子地址：https://bbs.nga.cn/read.php?tid=29306166&rand=88
