@@ -11,6 +11,8 @@
 # 反代理地址
 主线路：https://alchemystars.xiaoyao-100.repl.co/dmmapi
 
+官方线路：https://launcher.kengxxiao.com/dmmapi
+
 备用线路：https://alchemystars.luanwutian.repl.co/dmmapi
 
 # 补丁使用教程
