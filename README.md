@@ -5,6 +5,11 @@
 
 # 请注意，启动器要求服务器必须使用HTTPS，建议您使用Nginx等处理
 
+# 网页版启动器
+地址：https://weblaunch.kengxxiao.com/
+
+ps：请下载网页版启动器程序后再使用该启动方式
+
 # 启动器反代理自建教程
 使用replit平台搭建，具体操作详见：https://www.bilibili.com/video/BV1Ka411Z7nz/
 
