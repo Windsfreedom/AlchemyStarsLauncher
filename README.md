@@ -28,13 +28,11 @@ ps3：如需台服美服直连补丁，请自行抓包编写
 使用教程具体详见：https://www.bilibili.com/video/BV1rg411k7CZ/
 
 # alchemystarslauncher v4.6
-![QQ截图20220816210425](https://user-images.githubusercontent.com/103258286/184888863-605c4e42-74e7-48e9-b0d0-40640f792488.png)
-
 此压缩包内程序为本项目附带的启动器，该程序的所有登录均在服务器上完成，账号数据加密存储在本地，安全性高
+![QQ截图20220816210425](https://user-images.githubusercontent.com/103258286/184888863-605c4e42-74e7-48e9-b0d0-40640f792488.png)
 
 
 # 网页版启动器
-
 地址：https://weblaunch.kengxxiao.com/
 ![QQ截图20220816210611](https://user-images.githubusercontent.com/103258286/184889187-fcfaa828-842e-4e77-a964-2d434329876b.png)
 
