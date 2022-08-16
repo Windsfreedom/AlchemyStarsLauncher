@@ -26,7 +26,7 @@ ps3：如需台服美服直连补丁，请自行抓包编写
 
 使用教程具体详见：https://www.bilibili.com/video/BV1rg411k7CZ/
 
-#alchemystarslauncher
+# alchemystarslauncher
 
 此压缩包内程序为本项目附带的启动器，该程序的所有登录均在服务器上完成，账号数据加密存储在本地，安全性高
 
