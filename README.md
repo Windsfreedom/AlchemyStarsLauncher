@@ -1,15 +1,15 @@
-# 白夜极光DMM版反代理——AlchemyStarsLauncher
+# 白夜极光DMM版反向代理——AlchemyStarsLauncher
 本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
 
 帖子地址：https://bbs.nga.cn/read.php?tid=29306166&rand=88
 
 # 请注意，启动器要求服务器必须使用HTTPS，建议您使用Nginx等处理
 
-# 启动器反代理自建教程
+# 启动器反向代理自建教程
 使用replit平台搭建，具体操作详见：https://www.bilibili.com/video/BV1Ka411Z7nz/
 ![QQ截图20220816210545](https://user-images.githubusercontent.com/103258286/184889127-bc4ee8cb-323f-4159-b00e-3ea82fe78403.png)
 
-# 反代理地址
+# 反向代理地址
 主线路：https://alchemystars.xiaoyao-100.repl.co/dmmapi
 
 官方线路：https://launcher.kengxxiao.com/dmmapi
