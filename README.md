@@ -5,6 +5,8 @@
 
 # 请注意，启动器要求服务器必须使用HTTPS，建议您使用Nginx等处理
 
+# 截止到9月14日，4.7版本的启动器已无需反向代理
+
 # 启动器反向代理自建教程
 使用replit平台搭建，平台使用语言为Python，具体操作详见：https://www.bilibili.com/video/BV1Ka411Z7nz/
 ![QQ截图20220816210545](https://user-images.githubusercontent.com/103258286/184889127-bc4ee8cb-323f-4159-b00e-3ea82fe78403.png)
