@@ -3,9 +3,11 @@
 
 帖子地址：https://bbs.nga.cn/read.php?tid=29306166&rand=88
 
+# v4.7.1版本是最后一个发行版本
+
 # 请注意，启动器要求服务器必须使用HTTPS，建议您使用Nginx等处理
 
-# 截止到9月14日，4.7版本的启动器已无需反向代理
+# 截止到2022年9月14日，v4.7版本的启动器已无需反向代理
 
 # 启动器反向代理自建教程
 使用replit平台搭建，平台使用语言为Python，具体操作详见：https://www.bilibili.com/video/BV1Ka411Z7nz/
