@@ -14,11 +14,11 @@
 ![QQ截图20220816210545](https://user-images.githubusercontent.com/103258286/184889127-bc4ee8cb-323f-4159-b00e-3ea82fe78403.png)
 
 # 反向代理地址
-主线路：https://alchemystars.xiaoyao-100.repl.co/dmmapi
+~~主线路：https://alchemystars.xiaoyao-100.repl.co/dmmapi~~
 
 官方线路：https://launcher.kengxxiao.com/dmmapi
 
-备用线路：https://alchemystars.luanwutian.repl.co/dmmapi
+~~备用线路：https://alchemystars.luanwutian.repl.co/dmmapi~~
 
 # 补丁使用教程
 下载相应的补丁放入对应设备的游戏文件夹内，可达到无需代理进行游戏的效果
